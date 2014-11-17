@@ -1,0 +1,352 @@
+"";"name";"room";"seats";"address";"lon";"lat"
+"2";"Acud";1;80;"Veteranenstraße 21 10119 Berlin Mitte";13,40086;52,53353
+"3";"Acud";2;32;"Veteranenstraße 21 10119 Berlin Mitte";13,40086;52,53353
+"4";"Adria";1;376;"Schloßstraße 48 12165 Berlin Steglitz";13,317916;52,454724
+"5";"Akademie der Künste";1;518;"Hanseatenweg 10 10557 Berlin Tiergarten (030) 200 572 000Homepage";13,34607;52,51787
+"6";"Alhambra";1;358;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"7";"Alhambra";2;342;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"8";"Alhambra";3;120;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"9";"Alhambra";4;208;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"10";"Alhambra";5;111;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"11";"Alhambra";6;147;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"12";"Alhambra";7;138;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"13";"Arsenal";1;236;"Potsdamer Straße 2 10785 Berlin Tiergarten";13,37373;52,50974
+"14";"Arsenal";2;75;"Potsdamer Straße 2 10785 Berlin Tiergarten";13,37373;52,50974
+"15";"Astor Film Lounge";1;250;"Kurfürstendamm 225 10719 Berlin Charlottenburg";13,329938;52,5032605
+"16";"Astra Filmpalast";1;160;"Sterndamm 69 12487 Berlin Treptow (030) 636 16 50Homepage";13,50722;52,44713
+"17";"Astra Filmpalast";2;152;"Sterndamm 69 12487 Berlin Treptow (030) 636 16 50Homepage";13,50722;52,44713
+"18";"Astra Filmpalast";3;152;"Sterndamm 69 12487 Berlin Treptow (030) 636 16 50Homepage";13,50722;52,44713
+"19";"Astra Filmpalast";4;306;"Sterndamm 69 12487 Berlin Treptow (030) 636 16 50Homepage";13,50722;52,44713
+"20";"Astra Filmpalast";5;107;"Sterndamm 69 12487 Berlin Treptow (030) 636 16 50Homepage";13,50722;52,44713
+"21";"b-ware! Ladenkino";1;40;"Gärtner Straße 19 10245 Berlin Friedrichshain";13,4615156;52,5119038
+"22";"Babylon (Kreuzberg)";1;192;"Dresdenerstraße 126 10999 Berlin Kreuzberg";13,4168168;52,500692
+"23";"Babylon (Kreuzberg)";2;72;"Dresdenerstraße 126 10999 Berlin Kreuzberg";13,4168168;52,500692
+"24";"Babylon (Mitte)";1;68;"Rosa-Luxemburg-Straße 30 10178 Berlin Mitte";13,4111605;52,5259546
+"25";"Babylon (Mitte)";2;37;"Rosa-Luxemburg-Straße 30 10178 Berlin Mitte";13,4111605;52,5259546
+"26";"Bali";1;128;"Teltower Damm 33 14169 Berlin Zehlendorf (030) 811 46 78Homepage";13,2593304;52,4319202
+"27";"Berlinale Palast";1;163;"Marlene Dietrich Platz 10785 Berlin TiergartenHomepage NA";13,3726623;52,5074875
+"28";"Blauer Stern";1;165;"Hermann-Hesse-Straße 11 13156 Berlin Pankow";13,4015108;52,5805194
+"29";"Blauer Stern";2;74;"Hermann-Hesse-Straße 11 13156 Berlin Pankow";13,4015108;52,5805194
+"30";"BrotfabrikKino";1;60;"Prenzlauer Promenade 3 13086 Berlin Weißensee";13,43054;52,55268
+"31";"Bundesplatz Kino";1;88;"Bundesplatz 14 10715 Berlin Wilmersdorf (030) 854 060 85Homepage";13,32951;52,47898
+"32";"Capitol Dahlem";1;162;"Thielallee 36 14195 Berlin Zehlendorf (030) 831 64 17Homepage";13,28672;52,45303
+"33";"Casablanca";1;100;"Friedenstraße 12 12489 Berlin Treptow";13,548016;52,4355655
+"34";"Central";1;89;"Rosenthaler Straße 39 10178 Berlin Mitte";13,4027607;52,5242039
+"35";"Central";2;63;"Rosenthaler Straße 39 10178 Berlin Mitte";13,4027607;52,5242039
+"36";"Cinema";1;119;"Bundesallee 111 12161 Berlin Schöneberg (030) 852 30 04Homepage";13,3286893;52,4668778
+"37";"Cinema
+Paris";1;325;"Kurfürstendamm 211 10719 Berlin Charlottenburg";13,3249059;52,5022722
+"38";"CinemaxX Potsdamer Platz";1;301;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"39";"CinemaxX Potsdamer Platz";2;117;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"40";"CinemaxX Potsdamer Platz";3;497;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"41";"CinemaxX Potsdamer Platz";4;301;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"42";"CinemaxX Potsdamer Platz";5;279;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"43";"CinemaxX Potsdamer Platz";6;279;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"44";"CinemaxX Potsdamer Platz";7;599;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"45";"CinemaxX Potsdamer Platz";8;259;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"46";"CinemaxX Potsdamer Platz";9;259;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"47";"CinemaxX Potsdamer Platz";10;176;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"48";"CinemaxX Potsdamer Platz";11;52;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"49";"CinemaxX Potsdamer Platz";12;52;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"50";"CinemaxX Potsdamer Platz";13;52;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"51";"CinemaxX Potsdamer Platz";14;52;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"52";"CinemaxX Potsdamer Platz";15;52;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"53";"CinemaxX Potsdamer Platz";16;48;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"54";"CinemaxX Potsdamer Platz";17;48;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"55";"CinemaxX Potsdamer Platz";18;48;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"56";"CinemaxX Potsdamer Platz";19;48;"Voxstraße 2 10785 Berlin Tiergarten 01805 - 246 362 99 (Karten)Homepage";13,3734979;52,5085075
+"57";"CineMotion Hohenschönhausen";1;230;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"58";"CineMotion Hohenschönhausen";2;153;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"59";"CineMotion Hohenschönhausen";3;502;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"60";"CineMotion Hohenschönhausen";4;50;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"61";"CineMotion Hohenschönhausen";5;153;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"62";"CineMotion Hohenschönhausen";6;230;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"63";"CineMotion Hohenschönhausen";7;251;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"64";"CineMotion Hohenschönhausen";8;146;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"65";"CineMotion Hohenschönhausen";9;146;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"66";"CineMotion Hohenschönhausen";10;235;"Wartenberger Straße 174 13053 Berlin Hohenschönhausen";13,50885;52,56571
+"67";"CINEPLEX
+- Alhambra";1;358;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"68";"CINEPLEX
+- Alhambra";2;342;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"69";"CINEPLEX
+- Alhambra";3;120;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"70";"CINEPLEX
+- Alhambra";4;208;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"71";"CINEPLEX
+- Alhambra";5;111;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"72";"CINEPLEX
+- Alhambra";6;147;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"73";"CINEPLEX
+- Alhambra";7;138;"Seestraße 94 13347 Berlin Wedding 01805 050 311Homepage";13,35105;52,5505
+"74";"CINEPLEX - Neukölln";1;516;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"75";"CINEPLEX - Neukölln";2;194;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"76";"CINEPLEX - Neukölln";3;359;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"77";"CINEPLEX - Neukölln";4;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"78";"CINEPLEX - Neukölln";5;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"79";"CINEPLEX - Neukölln";6;278;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"80";"CINEPLEX - Neukölln";7;274;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"81";"CINEPLEX - Neukölln";8;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"82";"CINEPLEX - Neukölln";9;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"83";"CINEPLEX
+- Spandau";1;258;"Havelstraße 20 13597 Berlin Spandau 01805-050 211Homepage";13,206239;52,5384784
+"84";"CINEPLEX
+- Spandau";2;300;"Havelstraße 20 13597 Berlin Spandau 01805-050 211Homepage";13,206239;52,5384784
+"85";"CINEPLEX
+- Spandau";3;158;"Havelstraße 20 13597 Berlin Spandau 01805-050 211Homepage";13,206239;52,5384784
+"86";"CINEPLEX
+- Spandau";4;135;"Havelstraße 20 13597 Berlin Spandau 01805-050 211Homepage";13,206239;52,5384784
+"87";"CINEPLEX
+- Spandau";5;164;"Havelstraße 20 13597 Berlin Spandau 01805-050 211Homepage";13,206239;52,5384784
+"88";"CINEPLEX - Titania";1;396;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"89";"CINEPLEX - Titania";2;209;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"90";"CINEPLEX - Titania";3;210;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"91";"CINEPLEX - Titania";4;85;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"92";"CINEPLEX - Titania";5;103;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"93";"CINEPLEX - Titania";6;106;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"94";"CINEPLEX - Titania";7;114;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"95";"CineStar
+Hellersdorf";1;2;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"96";"CineStar
+Hellersdorf";2;137;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"97";"CineStar
+Hellersdorf";3;154;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"98";"CineStar
+Hellersdorf";4;464;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"99";"CineStar
+Hellersdorf";5;222;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"100";"CineStar
+Hellersdorf";6;222;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"101";"CineStar
+Hellersdorf";7;159;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"102";"CineStar
+Hellersdorf";8;110;"Stendaler Straße 25 12627 Berlin Hellersdorf";13,6039992;52,5383392
+"103";"CineStar IMAX";1;328;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"104";"CineStar Kino in der
+  Kulturbrauerei";1;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"105";"CineStar Kino in der
+  Kulturbrauerei";2;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"106";"CineStar Kino in der
+  Kulturbrauerei";3;444;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"107";"CineStar Kino in der
+  Kulturbrauerei";4;254;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"108";"CineStar Kino in der
+  Kulturbrauerei";5;162;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"109";"CineStar Kino in der
+  Kulturbrauerei";6;241;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"110";"CineStar Kino in der
+  Kulturbrauerei";7;265;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"111";"CineStar Kino in der
+  Kulturbrauerei";8;75;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"112";"CineStar
+Original im
+  Sony Center";1;184;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"113";"CineStar
+Original im
+  Sony Center";2;277;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"114";"CineStar
+Original im
+  Sony Center";3;367;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"115";"CineStar
+Original im
+  Sony Center";4;184;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"116";"CineStar
+Original im
+  Sony Center";5;277;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"117";"CineStar
+Original im
+  Sony Center";6;142;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"118";"CineStar
+Original im
+  Sony Center";7;360;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"119";"CineStar
+Original im
+  Sony Center";8;519;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"120";"CineStar Tegel";1;477;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"121";"CineStar Tegel";2;148;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"122";"CineStar Tegel";3;314;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"123";"CineStar Tegel";4;223;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"124";"CineStar Tegel";5;223;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"125";"CineStar Tegel";6;314;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"126";"CineStar Tegel";7;148;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"127";"CineStar Tegel";8;314;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"128";"CineStar Tegel";9;149;"Am Borsigturm 2 13507 Berlin Reinickendorf (030) 430 902 10Homepage";13,287079;52,5837733
+"129";"CineStar Treptower Park";1;419;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"130";"CineStar Treptower Park";2;279;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"131";"CineStar Treptower Park";3;175;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"132";"CineStar Treptower Park";4;140;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"133";"CineStar Treptower Park";5;480;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"134";"CineStar Treptower Park";6;346;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"135";"CineStar Treptower Park";7;214;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"136";"CineStar Treptower Park";8;165;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"137";"CineStar Treptower Park";9;145;"Elsenstraße 115-116 12435 Berlin Treptow (030) 538 94 22Homepage";13,45982;52,49211
+"138";"City Wedding";1;230;"Müllerstraße 74 13349 Berlin Wedding 0177 270 19 76Homepage KinoHomepage";13,33905;52,55843
+"139";"Colosseum";1;525;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"140";"Colosseum";2;162;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"141";"Colosseum";3;139;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"142";"Colosseum";4;149;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"143";"Colosseum";5;152;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"144";"Colosseum";6;354;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"145";"Colosseum";7;354;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"146";"Colosseum";8;243;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"147";"Colosseum";9;135;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"148";"Colosseum";10;437;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"149";"Cosima";1;250;"Sieglindestraße 10 12159 Berlin Schöneberg";13,3302793;52,4769629
+"150";"Downstairs
+Kino";1;28;"Schliemannstraße 15 10437 Berlin Prenzlauer Berg (030) 810 190 50Homepage";13,4198467;52,5436282
+"151";"Eiszeit";1;89;"Zeughofstraße 20 10997 Berlin Kreuzberg";13,43328;52,50023
+"152";"Eiszeit";2;53;"Zeughofstraße 20 10997 Berlin Kreuzberg";13,43328;52,50023
+"153";"Eva Lichtspiele";1;250;"Blissestraße 18 10713 Berlin Wilmersdorf (030) 922 55 305Homepage";13,31972;52,4847
+"154";"FaF (Filmtheater am  Friedrichshain)";1;323;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"155";"FaF (Filmtheater am  Friedrichshain)";2;213;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"156";"FaF (Filmtheater am  Friedrichshain)";3;98;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"157";"FaF (Filmtheater am  Friedrichshain)";4;113;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"158";"FaF (Filmtheater am  Friedrichshain)";5;129;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"159";"Filmcafé";1;28;"Schliemannstraße 15 10437 Berlin Prenzlauer Berg (030) 810 190 50Homepage";13,4198467;52,5436282
+"160";"Filmkunst 66";1;156;"Bleibtreustraße 12 10623 Berlin Charlottenburg";13,3195;52,50436
+"161";"Filmkunst 66";2;50;"Bleibtreustraße 12 10623 Berlin Charlottenburg";13,3195;52,50436
+"162";"Filmrauschpalast";1;44;"Kulturfabrik Lehrter Straße 35 10557 Berlin Tiergarten";13,35971;52,53444
+"163";"Filmtheater am Friedrichshain";1;323;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"164";"Filmtheater am Friedrichshain";2;213;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"165";"Filmtheater am Friedrichshain";3;98;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"166";"Filmtheater am Friedrichshain";4;113;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"167";"Filmtheater am Friedrichshain";5;129;"Bötzwstraße 1-5 10407 Berlin Prenzlauer Berg";13,430911;52,5290254
+"168";"Friedrichstadt-Palast";1;173;"Friedrichstraße 107 10117 Berlin MitteHomepage BerlinaleHomepage Friedrichstadt-Palast";13,388064;52,523911
+"169";"fsk am Oranienplatz";1;100;"Segitzdamm 2 10969 Berlin Kreuzberg (030) 614 031 95 (Programm)";13,4146452;52,5017686
+"170";"fsk am Oranienplatz";2;57;"Segitzdamm 2 10969 Berlin Kreuzberg (030) 614 031 95 (Programm)";13,4146452;52,5017686
+"171";"Gropius Passagen";1;184;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"172";"Gropius Passagen";2;172;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"173";"Gropius Passagen";3;200;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"174";"Gropius Passagen";4;491;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"175";"Gropius Passagen";5;324;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"176";"Gropius Passagen";6;334;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"177";"Hackesche Höfe Kino";1;274;"Rosenthaler Straße 40-41 10178 Berlin Mitte";13,4025359;52,5240131
+"178";"Hackesche Höfe Kino";2;100;"Rosenthaler Straße 40-41 10178 Berlin Mitte";13,4025359;52,5240131
+"179";"Hackesche Höfe Kino";3;143;"Rosenthaler Straße 40-41 10178 Berlin Mitte";13,4025359;52,5240131
+"180";"Hackesche Höfe Kino";4;44;"Rosenthaler Straße 40-41 10178 Berlin Mitte";13,4025359;52,5240131
+"181";"Hackesche Höfe Kino";5;71;"Rosenthaler Straße 40-41 10178 Berlin Mitte";13,4025359;52,5240131
+"182";"International";1;551;"Karl-Marx-Allee 33 10178 Berlin Mitte (030) 247 560 11Homepage";13,42318;52,52067
+"183";"Intimes";1;97;"Niederbarnimstraße 15 10247 Berlin Friedrichshain";13,4583387;52,5131084
+"184";"Karli (CINEPLEX - Neukölln)";1;516;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"185";"Karli (CINEPLEX - Neukölln)";2;194;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"186";"Karli (CINEPLEX - Neukölln)";3;359;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"187";"Karli (CINEPLEX - Neukölln)";4;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"188";"Karli (CINEPLEX - Neukölln)";5;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"189";"Karli (CINEPLEX - Neukölln)";6;278;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"190";"Karli (CINEPLEX - Neukölln)";7;274;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"191";"Karli (CINEPLEX - Neukölln)";8;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"192";"Karli (CINEPLEX - Neukölln)";9;233;"Karl-Marx-Straße 66 12043 Berlin Neukölln";13,432996;52,4821579
+"193";"Kino
+im Kulturhaus Spandau";1;82;"Mauerstraße 6 13597 Berlin Spandau (030) 333 60 81Homepage";13,202338;52,5355396
+"194";"Kino in der Kulturbrauerei";1;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"195";"Kino in der Kulturbrauerei";2;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"196";"Kino in der Kulturbrauerei";3;444;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"197";"Kino in der Kulturbrauerei";4;254;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"198";"Kino in der Kulturbrauerei";5;162;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"199";"Kino in der Kulturbrauerei";6;241;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"200";"Kino in der Kulturbrauerei";7;265;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"201";"Kino in der Kulturbrauerei";8;75;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"202";"Kino Kiste";1;37;"Heidenauer Straße 10 12627 Berlin Hellersdorf";13,60946;52,53619
+"203";"Kino Krokodil";1;75;"Greifenhagener Straße 32 10437 Berlin Prenzlauer Berg";13,4194181;52,5522633
+"204";"Kino Spreehöfe";1;310;"Wilhelminenhofstraße 89 12459 Berlin Köpenick";13,51168;52,46215
+"205";"Kino Spreehöfe";2;180;"Wilhelminenhofstraße 89 12459 Berlin Köpenick";13,51168;52,46215
+"206";"Kino Spreehöfe";3;94;"Wilhelminenhofstraße 89 12459 Berlin Köpenick";13,51168;52,46215
+"207";"Kino Spreehöfe";4;90;"Wilhelminenhofstraße 89 12459 Berlin Köpenick";13,51168;52,46215
+"208";"Kino Spreehöfe";5;136;"Wilhelminenhofstraße 89 12459 Berlin Köpenick";13,51168;52,46215
+"209";"Kiste";1;37;"Heidenauer Straße 10 12627 Berlin Hellersdorf";13,60946;52,53619
+"210";"Krokodil";1;75;"Greifenhagener Straße 32 10437 Berlin Prenzlauer Berg";13,4194181;52,5522633
+"211";"Kulturbrauerei";1;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"212";"Kulturbrauerei";2;62;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"213";"Kulturbrauerei";3;444;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"214";"Kulturbrauerei";4;254;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"215";"Kulturbrauerei";5;162;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"216";"Kulturbrauerei";6;241;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"217";"Kulturbrauerei";7;265;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"218";"Kulturbrauerei";8;75;"Schönhauser Allee 36-39 Eingang Sredzkistraße";NA;NA
+"219";"Kulturhaus Spandau";1;82;"Mauerstraße 6 13597 Berlin Spandau (030) 333 60 81Homepage";13,202338;52,5355396
+"220";"LEGOLAND® Discovery Centre";1;94;"Potsdamer Straße 4  10785 Berlin Tiergarten";13,3732867;52,5100083
+"221";"Lichtblick Kino";1;32;"Kastanienallee 77 10435 Berlin Prenzlauer Berg (030) 440 581 79Homepage";13,40814;52,53637
+"222";"Martin-Gropius-Bau";1;202;"Niederkirchner Straße 7 10963 Berlin Kreuzberg (030) 254 86 0Homepage";13,3819377;52,5066485
+"223";"Moviemento";1;103;"Kottbusser Damm 22 10967 Berlin Kreuzberg (030) 692 47 85Homepage";13,42342;52,49024
+"224";"Moviemento";2;67;"Kottbusser Damm 22 10967 Berlin Kreuzberg (030) 692 47 85Homepage";13,42342;52,49024
+"225";"Moviemento";3;62;"Kottbusser Damm 22 10967 Berlin Kreuzberg (030) 692 47 85Homepage";13,42342;52,49024
+"226";"Neues
+OFF";1;193;"Hermannstraße 20 12049 Berlin Neukölln";13,4245;52,48347
+"227";"New Yorck";1;228;"Yorckstraße 86 10965 Berlin Kreuzberg (030) 789 132 40Homepage";13,38511;52,49307
+"228";"New Yorck";2;95;"Yorckstraße 86 10965 Berlin Kreuzberg (030) 789 132 40Homepage";13,38511;52,49307
+"229";"Odeon";1;359;"Hauptstraße 116 10827 Berlin Schöneberg (030) 787 040 19Homepage";13,34941;52,48212
+"230";"Passage";1;220;"Karl-Marx-Straße 131-133 12043 Berlin Neukölln";13,4388328;52,4775146
+"231";"Passage";2;56;"Karl-Marx-Straße 131-133 12043 Berlin Neukölln";13,4388328;52,4775146
+"232";"Passage";3;69;"Karl-Marx-Straße 131-133 12043 Berlin Neukölln";13,4388328;52,4775146
+"233";"Passage";4;48;"Karl-Marx-Straße 131-133 12043 Berlin Neukölln";13,4388328;52,4775146
+"234";"Rollberg Kinos";1;150;"Hermannstraße 214-216 12049 Berlin Neukölln";13,4258959;52,47865
+"235";"Rollberg Kinos";2;113;"Hermannstraße 214-216 12049 Berlin Neukölln";13,4258959;52,47865
+"236";"Rollberg Kinos";3;89;"Hermannstraße 214-216 12049 Berlin Neukölln";13,4258959;52,47865
+"237";"Rollberg Kinos";4;67;"Hermannstraße 214-216 12049 Berlin Neukölln";13,4258959;52,47865
+"238";"Rollberg Kinos";5;44;"Hermannstraße 214-216 12049 Berlin Neukölln";13,4258959;52,47865
+"239";"Russisches Haus";1;164;"Friedrichstraße 176-179 10117 Berlin Mitte";13,389301;52,5132533
+"240";"Sony Center";1;184;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"241";"Sony Center";2;277;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"242";"Sony Center";3;367;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"243";"Sony Center";4;184;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"244";"Sony Center";5;277;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"245";"Sony Center";6;142;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"246";"Sony Center";7;360;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"247";"Sony Center";8;519;"Sony Center Potsdamer Straße 4 10785 Berlin Tiergarten";13,3734078;52,5100122
+"248";"Sputnik
+Kino";1;70;"Hasenheide 54 10967 Berlin Kreuzberg (030) 694 11 47Homepage";13,409935;52,488941
+"249";"Sputnik
+Kino";2;23;"Hasenheide 54 10967 Berlin Kreuzberg (030) 694 11 47Homepage";13,409935;52,488941
+"250";"Thalia";1;238;"Kaiser-Wilhelm-Straße 71 12247 Berlin Steglitz";13,3442674;52,4354278
+"251";"Thalia";2;20;"Kaiser-Wilhelm-Straße 71 12247 Berlin Steglitz";13,3442674;52,4354278
+"252";"Thalia";3;91;"Kaiser-Wilhelm-Straße 71 12247 Berlin Steglitz";13,3442674;52,4354278
+"253";"Thalia";4;57;"Kaiser-Wilhelm-Straße 71 12247 Berlin Steglitz";13,3442674;52,4354278
+"254";"Tilsiter Lichtspiele";1;66;"Richard-Sorge-Straße 25A 10249 Berlin Friedrichshain";13,44801;52,52086
+"255";"Titania Palast";1;396;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"256";"Titania Palast";2;209;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"257";"Titania Palast";3;210;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"258";"Titania Palast";4;85;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"259";"Titania Palast";5;103;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"260";"Titania Palast";6;106;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"261";"Titania Palast";7;114;"Schloßstraße 5-6 12163 Berlin Steglitz";13,3270882;52,4637028
+"262";"Toni & Tonino";1;145;"Antonplatz 13086 Berlin Weißensee (030) 927 912 00Homepage";NA;NA
+"263";"Toni & Tonino";2;102;"Antonplatz 13086 Berlin Weißensee (030) 927 912 00Homepage";NA;NA
+"264";"UCI Kinowelt Colosseum";1;525;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"265";"UCI Kinowelt Colosseum";2;162;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"266";"UCI Kinowelt Colosseum";3;139;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"267";"UCI Kinowelt Colosseum";4;149;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"268";"UCI Kinowelt Colosseum";5;152;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"269";"UCI Kinowelt Colosseum";6;354;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"270";"UCI Kinowelt Colosseum";7;354;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"271";"UCI Kinowelt Colosseum";8;243;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"272";"UCI Kinowelt Colosseum";9;135;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"273";"UCI Kinowelt Colosseum";10;437;"Schönhauser Allee 123 10437 Berlin Prenzlauer Berg";13,41141;52,54774
+"274";"UCI Kinowelt am Eastgate";1;359;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"275";"UCI Kinowelt am Eastgate";2;243;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"276";"UCI Kinowelt am Eastgate";3;243;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"277";"UCI Kinowelt am Eastgate";4;243;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"278";"UCI Kinowelt am Eastgate";5;147;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"279";"UCI Kinowelt am Eastgate";6;147;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"280";"UCI Kinowelt am Eastgate";7;133;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"281";"UCI Kinowelt am Eastgate";8;133;"Märkische Allee 176-178 12681 Berlin Marzahn";13,5415616;52,5422342
+"282";"UCI Kinowelt Friedrichshain";1;515;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"283";"UCI Kinowelt Friedrichshain";2;240;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"284";"UCI Kinowelt Friedrichshain";3;194;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"285";"UCI Kinowelt Friedrichshain";4;300;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"286";"UCI Kinowelt Friedrichshain";5;176;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"287";"UCI Kinowelt Friedrichshain";6;193;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"288";"UCI Kinowelt Friedrichshain";7;300;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"289";"UCI Kinowelt Friedrichshain";8;177;"Landsberger Allee 54 10249 Berlin Friedrichshain (030) 422 042 20Homepage";13,4434;52,52453
+"290";"UCI Kinowelt Gropius Passagen";1;184;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"291";"UCI Kinowelt Gropius Passagen";2;172;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"292";"UCI Kinowelt Gropius Passagen";3;200;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"293";"UCI Kinowelt Gropius Passagen";4;491;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"294";"UCI Kinowelt Gropius Passagen";5;324;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"295";"UCI Kinowelt Gropius Passagen";6;334;"Gropius Passage Johannisthaler Chaussee 295 12351 Berlin Neukölln";13,4575206;52,4315707
+"296";"Xenon";1;137;"Kolonnenstraße 5 10827 Berlin Schöneberg";13,3592355;52,4863107
+"297";"Yorck";1;228;"Yorckstraße 86 10965 Berlin Kreuzberg (030) 789 132 40Homepage";13,38511;52,49307
+"298";"Yorck";2;95;"Yorckstraße 86 10965 Berlin Kreuzberg (030) 789 132 40Homepage";13,38511;52,49307
+"299";"Zeughauskino";1;168;"Unter den Linden 2 10117 Berlin Mitte (030) 203 04 770Homepage";13,3968884;52,5176866
+"300";"Z-inema";1;35;"Bergstraße 2 10115 Berlin Mitte (030) 283 89 121Homepage";13,39573;52,52948
+"301";"Zukunft";1;48;"Laskerstraße 5a 10245 Berlin Friedrichshain (0176) 578 610 79Homepage";13,4666;52,5013
+"302";"Zukunft";2;25;"Laskerstraße 5a 10245 Berlin Friedrichshain (0176) 578 610 79Homepage";13,4666;52,5013
